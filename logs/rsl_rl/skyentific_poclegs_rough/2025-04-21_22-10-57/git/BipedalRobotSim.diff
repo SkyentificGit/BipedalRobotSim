@@ -1,0 +1,17 @@
+--- git status ---
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	URDF+USD/SimpleSkyentificPocLegs/skyentific_poclegs/scripts/rsl_rl/__pycache__/
+	logs/
+	outputs/
+	skyentific_poclegs/build/
+	skyentific_poclegs/dist/
+	skyentific_poclegs/skyentific_poclegs.egg-info/
+
+nothing added to commit but untracked files present (use "git add" to track) 
+
+
+--- git diff ---
